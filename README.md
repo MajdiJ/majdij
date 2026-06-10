@@ -54,7 +54,7 @@ Thank you for visiting my profile! Let's code and create amazing things. 🚀
 <p align="center">
   <img src="https://majdij.com/github-widgets-assets/projects/20-20-20-rule-timer.png" width="275">
   <img src="https://majdij.com/github-widgets-assets/projects//archcomply.png" width="275">
-  <img src="https://majdij.com/github-widgets-assets/projects/automatic-network-rebooter.png" width="275">
+  <!-- <img src="https://majdij.com/github-widgets-assets/projects/automatic-network-rebooter.png" width="275"> -->
   <img src="https://majdij.com/github-widgets-assets/projects/fitsmart.png" width="275">
   <img src="https://majdij.com/github-widgets-assets/projects/majdij-com.png" width="275">
   <img src="https://majdij.com/github-widgets-assets/projects/simple-pykv.png" width="275">
