@@ -52,13 +52,13 @@ Thank you for visiting my profile! Let's code and create amazing things. 🚀
 
 
 <p align="center">
-  <img src="https://majdij.com/github-widgets-assets/projects/20-20-20-rule-timer.png" width="300">
-  <img src="https://majdij.com/github-widgets-assets/projects//archcomply.png" width="300">
-  <img src="https://majdij.com/github-widgets-assets/projects/automatic-network-rebooter.png" width="300">
-  <img src="https://majdij.com/github-widgets-assets/projects/fitsmart.png" width="300">
-  <img src="https://majdij.com/github-widgets-assets/projects/majdij-com.png" width="300">
-  <img src="https://majdij.com/github-widgets-assets/projects/simple-pykv.png" width="300">
-  <img src="https://majdij.com/github-widgets-assets/projects/wandstack.png" width="300">
+  <img src="https://majdij.com/github-widgets-assets/projects/20-20-20-rule-timer.png" width="250">
+  <img src="https://majdij.com/github-widgets-assets/projects//archcomply.png" width="250">
+  <img src="https://majdij.com/github-widgets-assets/projects/automatic-network-rebooter.png" width="250">
+  <img src="https://majdij.com/github-widgets-assets/projects/fitsmart.png" width="250">
+  <img src="https://majdij.com/github-widgets-assets/projects/majdij-com.png" width="250">
+  <img src="https://majdij.com/github-widgets-assets/projects/simple-pykv.png" width="250">
+  <img src="https://majdij.com/github-widgets-assets/projects/wandstack.png" width="250">
 </p>
 
 
@@ -66,9 +66,9 @@ Thank you for visiting my profile! Let's code and create amazing things. 🚀
 
 <p align="center">
 
-  <img src="https://majdij.com/github-widgets-assets/articles/a-level-cs-nea-school-register-system-for-lower-income-countries.png" width="300">
-  <img src="https://majdij.com/github-widgets-assets/articles/a-level-epq-navigating-ai-education-social-impacts.png" width="300">
-  <img src="https://majdij.com/github-widgets-assets/articles/building-simple-pykv.png" width="300">
-  <img src="https://majdij.com/github-widgets-assets/articles/developing-my-portfolio-website.png" width="300">
+  <img src="https://majdij.com/github-widgets-assets/articles/a-level-cs-nea-school-register-system-for-lower-income-countries.png" width="250">
+  <img src="https://majdij.com/github-widgets-assets/articles/a-level-epq-navigating-ai-education-social-impacts.png" width="250">
+  <img src="https://majdij.com/github-widgets-assets/articles/building-simple-pykv.png" width="250">
+  <img src="https://majdij.com/github-widgets-assets/articles/developing-my-portfolio-website.png" width="250">
 </p>
 
