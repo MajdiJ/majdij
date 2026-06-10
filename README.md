@@ -66,9 +66,9 @@ Thank you for visiting my profile! Let's code and create amazing things. 🚀
 
 <p align="center">
 
-  <img src="https://majdij.com/github-widgets-assets/articles/a-level-cs-nea-school-register-system-for-lower-income-countries.png" width="375">
-  <img src="https://majdij.com/github-widgets-assets/articles/a-level-epq-navigating-ai-education-social-impacts.png" width="375">
-  <img src="https://majdij.com/github-widgets-assets/articles/building-simple-pykv.png" width="375">
-  <img src="https://majdij.com/github-widgets-assets/articles/developing-my-portfolio-website.png" width="375">
+  <img src="https://majdij.com/github-widgets-assets/articles/a-level-cs-nea-school-register-system-for-lower-income-countries.png" width="275">
+  <img src="https://majdij.com/github-widgets-assets/articles/a-level-epq-navigating-ai-education-social-impacts.png" width="275">
+  <img src="https://majdij.com/github-widgets-assets/articles/building-simple-pykv.png" width="275">
+  <img src="https://majdij.com/github-widgets-assets/articles/developing-my-portfolio-website.png" width="275">
 </p>
 
