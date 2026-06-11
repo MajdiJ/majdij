@@ -1,55 +1,47 @@
-# Welcome to My GitHub Profile! 👋
+<!--
+  Widgets are served by my own widget server (majdij_github_widgets),
+  deployed at projects-github-profile-widgets.majdij.com via Cloudflare Tunnel.
+-->
 
-Hi there! I'm a university student currently pursuing a degree in Computer Science. I'm passionate about technology, programming, and exploring the vast world of computer science. Here's a little about me and what I'm working on:
+<div align="center">
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=majdij&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=majdij&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdij&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="languages graph" />
+# Hey, I'm Majdi 👋
+
+**Computer Science student** building things for the web and beyond — from PWAs and
+key-value stores to compliance automation. Everything below is live data from my
+own self-hosted widget server, designed and built from scratch.
+
+[**majdij.com**](https://majdij.com/?utm_source=github&utm_medium=social&utm_content=bio) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/majdi-jaigirdar/) &nbsp;·&nbsp;
+[Instagram](https://www.instagram.com/majdi_jaigirdar/) &nbsp;·&nbsp;
+[Contact](https://majdij.com/#contact?utm_source=github&utm_medium=social&utm_content=bio)
+
 </div>
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/github/followers/majdij?label=Followers&style=flat&color=white&logo=github&logoColor=white" alt="GitHub followers" />
-
-  <img src="https://komarev.com/ghpvc/?username=majdij&style=social&color=green" alt="Profile views" />
-
-  <a href="https://majdij.com/?utm_source=github&utm_medium=social&utm_content=bio">
-    <img src="https://img.shields.io/badge/Website-MajdiJ.com-gold?style=flat&logo=world" alt="Website" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/majdi-jaigirdar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Majdi%20Jaigirdar-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+<p align="center">
+  <img src="https://projects-github-profile-widgets.majdij.com/widget/commits.svg" width="200" alt="Total commits" />
+  <img src="https://projects-github-profile-widgets.majdij.com/widget/streak.svg" width="200" alt="Current streak" />
+  <img src="https://projects-github-profile-widgets.majdij.com/widget/stars.svg" width="200" alt="Stars earned" />
+  <img src="https://projects-github-profile-widgets.majdij.com/widget/contributions.svg" width="200" alt="Total contributions" />
+</p>
+<p align="center">
+  <img src="https://projects-github-profile-widgets.majdij.com/widget/prs.svg" width="200" alt="Pull requests" />
+  <img src="https://projects-github-profile-widgets.majdij.com/widget/issues.svg" width="200" alt="Issues" />
+  <img src="https://projects-github-profile-widgets.majdij.com/widget/views.svg" width="200" alt="Profile views" />
+  <img src="https://projects-github-profile-widgets.majdij.com/widget/repos.svg" width="200" alt="Repositories" />
+</p>
+<p align="center">
+  <img src="https://projects-github-profile-widgets.majdij.com/widget/languages.svg" width="404" alt="Most used languages" />
+  <a href="https://majdij.com/?utm_source=github&utm_medium=social&utm_content=widget">
+    <img src="https://projects-github-profile-widgets.majdij.com/widget/website.svg" width="404" alt="Visit majdij.com" />
   </a>
 </p>
 
+<br>
 
-## About Me
-
-- 🎓 **University Life:** I'm studying Python and Java as part of my coursework.
-- 🌐 **Self-Learning Enthusiast:** In my free time, I'm diving into web development through Team Treehouse courses.
-- 💻 **Technologies I'm Exploring:**
-  - Web Development: JavaScript, HTML, CSS
-  - Tools & Platforms: NGINX, Docker, Git, GitHub
-- 🚀 **Career Aspirations:** I aspire to build a career in computer science and technology, though I haven't settled on a specific path yet because I genuinely enjoy learning everything about this field.
-
-## View my Website!
-[My website: **MajdiJ.com**](https://majdij.com/?utm_source=github&utm_medium=social&utm_content=bio)
-
-## Let's Connect!
-
-I'm always open to learning from others and collaborating on exciting projects. Feel free to connect with me here on GitHub or reach out on:
-
-- 💼 [**LinkedIn:** Majdi Jaigirdar](https://www.linkedin.com/in/majdi-jaigirdar-9624721ab/)
-- 📸 [**Instagram:** Majdi_Jaigirdar](https://www.instagram.com/majdi_jaigirdar/)
-- 🧑‍💻 [**Contact via my website**](https://majdij.com/#contact?utm_source=github&utm_medium=social&utm_content=bio)
-
-Thank you for visiting my profile! Let's code and create amazing things. 🚀
-
-
-
-
+## 🚀 Projects
 
 <p align="center">
   <img src="https://majdij.com/github-widgets-assets/projects/20-20-20-rule-timer.png" width="275">
@@ -61,14 +53,28 @@ Thank you for visiting my profile! Let's code and create amazing things. 🚀
   <img src="https://majdij.com/github-widgets-assets/projects/wandstack.png" width="275">
 </p>
 
+## 🛠️ Skills
 
+<!-- Remove this section (one img + heading) if you decide to drop the skills card. -->
 <img align="center" src="https://majdij.com/github-widgets-assets/skills.png">
 
-<p align="center">
+## ✍️ Articles
 
+<p align="center">
   <img src="https://majdij.com/github-widgets-assets/articles/a-level-cs-nea-school-register-system-for-lower-income-countries.png" width="275">
   <img src="https://majdij.com/github-widgets-assets/articles/a-level-epq-navigating-ai-education-social-impacts.png" width="275">
   <img src="https://majdij.com/github-widgets-assets/articles/building-simple-pykv.png" width="275">
   <img src="https://majdij.com/github-widgets-assets/articles/developing-my-portfolio-website.png" width="275">
 </p>
 
+<br>
+
+<div align="center">
+
+I'm always open to learning from others and collaborating on interesting projects —
+the best place to reach me is [LinkedIn](https://www.linkedin.com/in/majdi-jaigirdar/)
+or [through my website](https://majdij.com/#contact?utm_source=github&utm_medium=social&utm_content=bio).
+
+Thanks for stopping by! 🚀
+
+</div>
