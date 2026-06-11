@@ -5,10 +5,10 @@
 
 <div align="center">
 
-# Hey, I'm Majdi 👋
+# Hey there, I'm Majdi 👋
 
-**Computer Science student** building things for the web and beyond — from PWAs and
-key-value stores to compliance automation.
+**Computer Science student** building things for the web and beyond, from PWAs and
+key-value stores to compliance automation. Check out my stats:
 
 [**majdij.com**](https://majdij.com/?utm_source=github&utm_medium=social&utm_content=bio) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/majdi-jaigirdar/) &nbsp;·&nbsp;
