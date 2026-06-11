@@ -8,8 +8,7 @@
 # Hey, I'm Majdi 👋
 
 **Computer Science student** building things for the web and beyond — from PWAs and
-key-value stores to compliance automation. Everything below is live data from my
-own self hosted widget server, designed and built from scratch.
+key-value stores to compliance automation.
 
 [**majdij.com**](https://majdij.com/?utm_source=github&utm_medium=social&utm_content=bio) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/majdi-jaigirdar/) &nbsp;·&nbsp;
@@ -44,29 +43,31 @@ own self hosted widget server, designed and built from scratch.
 ## 🚀 Projects
 
 <p align="center">
-  <img src="https://majdij.com/github-widgets-assets/projects/20-20-20-rule-timer.png" width="275">
-  <img src="https://majdij.com/github-widgets-assets/projects//archcomply.png" width="275">
-  <img src="https://majdij.com/github-widgets-assets/projects/fitsmart.png" width="275">
-  <img src="https://majdij.com/github-widgets-assets/projects/majdij-com.png" width="275">
-  <img src="https://majdij.com/github-widgets-assets/projects/simple-pykv.png" width="275">
-  <img src="https://majdij.com/github-widgets-assets/projects/wandstack.png" width="275">
+  <a href="https://majdij.com/projects/">
+    <img src="https://majdij.com/github-widgets-assets/projects/20-20-20-rule-timer.png?v=2" width="275">
+    <img src="https://majdij.com/github-widgets-assets/projects//archcomply.png?v=2" width="275">
+    <img src="https://majdij.com/github-widgets-assets/projects/fitsmart.png?v=2" width="275">
+    <img src="https://majdij.com/github-widgets-assets/projects/majdij-com.png?v=2" width="275">
+    <img src="https://majdij.com/github-widgets-assets/projects/simple-pykv.png?v=2" width="275">
+    <img src="https://majdij.com/github-widgets-assets/projects/wandstack.png?v=2" width="275">
+  </a>
 </p>
 
 ## 🛠️ Skills
 
-<img align="center" src="https://majdij.com/github-widgets-assets/skills.png">
+<img align="center" src="https://majdij.com/github-widgets-assets/skills.png?v=2">
 
 ## ✍️ Articles
 
 <p align="center">
   <a href="https://majdij.com/articles/developing-my-portfolio-website/">
-    <img src="https://majdij.com/github-widgets-assets/articles/developing-my-portfolio-website.png" width="275">
+    <img src="https://majdij.com/github-widgets-assets/articles/developing-my-portfolio-website.png?v=2" width="275">
   </a>
   <a href="https://majdij.com/articles/building-simple-pykv/">
-    <img src="https://majdij.com/github-widgets-assets/articles/building-simple-pykv.png" width="275">
+    <img src="https://majdij.com/github-widgets-assets/articles/building-simple-pykv.png?v=2" width="275">
   </a>
   <a href="https://majdij.com/articles/a-level-epq-navigating-ai-education-social-impacts/">
-    <img src="https://majdij.com/github-widgets-assets/articles/a-level-epq-navigating-ai-education-social-impacts.png" width="275">
+    <img src="https://majdij.com/github-widgets-assets/articles/a-level-epq-navigating-ai-education-social-impacts.png?v=2" width="275">
   </a>
 </p>
 
@@ -74,10 +75,13 @@ own self hosted widget server, designed and built from scratch.
 
 <div align="center">
 
-I'm always open to learning from others and collaborating on interesting projects —
+I'm always open to learning from others and collaborating on interesting projects,
 the best place to reach me is [LinkedIn](https://www.linkedin.com/in/majdi-jaigirdar/)
 or [through my website](https://majdij.com/#contact?utm_source=github&utm_medium=social&utm_content=bio).
 
 Thanks for stopping by! 🚀
 
 </div>
+
+
+> All the widgets above are live data from my own self hosted widget server and website, designed and built from scratch.
