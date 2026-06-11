@@ -38,7 +38,7 @@ key-value stores to compliance automation. Check out my stats:
 
 <br>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://majdij.com/projects/">
@@ -55,7 +55,7 @@ key-value stores to compliance automation. Check out my stats:
 
 <img align="center" src="https://majdij.com/github-widgets-assets/skills.png?v=2">
 
-## ✍️ Articles
+## ✍️ Featured Articles
 
 <p align="center">
   <a href="https://majdij.com/articles/developing-my-portfolio-website/">
