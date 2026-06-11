@@ -24,13 +24,11 @@ key-value stores to compliance automation.
   <img src="https://projects-github-profile-widgets.majdij.com/widget/stars.svg" width="160" alt="Stars earned" />
   <img src="https://projects-github-profile-widgets.majdij.com/widget/contributions.svg" width="160" alt="Total contributions" />
   <img src="https://projects-github-profile-widgets.majdij.com/widget/prs.svg" width="160" alt="Pull requests" />
-  <br>
   <img src="https://projects-github-profile-widgets.majdij.com/widget/deployed.svg" width="160" alt="Projects deployed" />
   <img src="https://projects-github-profile-widgets.majdij.com/widget/views.svg" width="160" alt="Profile views" />
   <img src="https://projects-github-profile-widgets.majdij.com/widget/repos.svg" width="160" alt="Repositories" />
   <img src="https://projects-github-profile-widgets.majdij.com/widget/years.svg" width="160" alt="Years on GitHub" />
   <img src="https://projects-github-profile-widgets.majdij.com/widget/issues.svg" width="160" alt="Issues" />
-  <br>
   <img src="https://projects-github-profile-widgets.majdij.com/widget/fun.svg" width="160" alt="Cups of tea" />
   <img src="https://projects-github-profile-widgets.majdij.com/widget/languages.svg" width="324" alt="Most used languages" />
   <a href="https://majdij.com/?utm_source=github&utm_medium=social&utm_content=widget">
